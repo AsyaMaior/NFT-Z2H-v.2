@@ -8,4 +8,6 @@ bscscan testnet : https://testnet.bscscan.com/address/0x509fae0d73e8ae83f60c1567
 
 smart contract frontend github: https://github.com/AsyaMaior/NFT-Z2H-v.2-front 
 
+dApp: https://nft-gallery-minter.vercel.app/
+
 
