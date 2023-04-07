@@ -1,0 +1,15 @@
+{
+  "description": "AI generated images of Nocturnal creatures",
+  "image": "ipfs://QmZDXP7ECTjmgzKaPfpv56WBFMFf1T1pKn4PrCKGkYKJ4i/13.png",
+  "name": "Nocturnal creature #13",
+  "attributes": [
+    {
+      "trait type": "Base",
+      "value": "high"
+    },
+    {
+      "trait type": "Level",
+      "value": "2"
+    }
+  ]
+}
